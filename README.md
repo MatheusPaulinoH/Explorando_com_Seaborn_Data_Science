@@ -1,4 +1,4 @@
-# Explorando_com_Seaborn_Data_Science
+# Explorando_com_Seaborn_Data_Science EDUTECH-PR
 Projeto de estudo da Alura
 
 Nosso projeto se trata de gorjetas, e sabemos que no Brasil as pessoas pagam 10% do valor da conta como gorjeta ou caixinha dos funcionários, de forma opcional. Em outros países, este valor é livre e fica a critério do cliente, ou seja, não há uma porcentagem exata estabelecida.
